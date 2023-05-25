@@ -16,4 +16,3 @@ Além disso, foram empregados princípios de responsividade, utilizando recursos
 
 Disponível em:
 
-https://eduardojsrosa.github.io/MediCenter_Flexbox/
